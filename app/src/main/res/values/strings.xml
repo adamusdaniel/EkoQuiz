@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EQuiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_instrukcja">Instrukcja</string>
+    <string name="inst2">Po przekroczeniu progu 15 pytania stają się one coraz trudniejsze. Od tej chwili za każdą dobrą odpowiedź dalej otrzymujesz 100zł, ale za każdą złą od puli zostaje odjęte 200zł.</string>
+    <string name="inst1">Na starcie Twojej gry posiadasz 500zł. Za każdą poprawną odpowiedź otrzymujesz 100zł, a za każdą złą z całej puli odejmowane jest 100zł.</string>
+    <string name="inst3">Najtrudniejszy poziom pytań rozpoczyna się po przekroczeniu 35 pytania. Tutaj za każdą poprawną odpowiedź otrzymujesz 200zł, ale za złą -500zł Gra działa do momentu odpowiedzenia na 30 pytań lub wyzerowania się puli.</string>
+    <string name="inst4">Pamiętaj że każde pytanie ma tylko jedną poprawną odpowiedź!</string>
+    <string name="title_activity_quiz">QuizActivity</string>
+    <string name="title_activity_wynik">Wynik</string>
+    <string name="title_activity_wyniki">Wyniki</string>
+</resources>
